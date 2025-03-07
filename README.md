@@ -54,6 +54,10 @@ The following methods were used:
 - Average Performance Rating (Men): 2.41
 - Average Performance Rating (Women): 2.42
 
+# Dashboard
+## Photo
+![IMG-20250303-WA0008](https://github.com/user-attachments/assets/342e838f-7b94-4cb1-836a-a2746612c18a)
+
 
 
 # Root Causes of Slow Progress
